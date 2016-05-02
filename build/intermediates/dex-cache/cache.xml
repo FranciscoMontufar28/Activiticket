@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-06254dace8e4f407c1d6199883f05fa0e4f4281b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e76a4b693db19fdde80d30123204d0ed2454ea9">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-0d32b88f41ca169edb53db9c4ceecc7ef22e914f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-f4132a081f1507db6425d65a9a4e225ee64c9ff7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.3\5de03bab93697321e5654831bb98df11ad4c19ac\azure-mobile-services-android-sdk-2.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5de03bab93697321e5654831bb98df11ad4c19ac">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.3-9a6ce901e750b29999c855b14cac0c070ba62054.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-48cde8964647c4bf45f9d2082fc00fe8a67d2307.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\guava-18.0-fa975bb547333ccfbec3ec04cfb97c91a7a99e3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-3c7ae5881b4787317b3a988239e655b174be73ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-f0634c87c76681adf2c33c86ad231d812d734f27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\gson-2.3-cd70dff280609203f9319c342349689070cc8f30.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-22368cdf4e005ae56673dc222b14a85e132ad1b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9a08d861dab0c5a1149453937cdd2a3cbd5393cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\classes-92df6a77d081f8e37969a5d98aad9bfd99faba11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Admin\Dropbox\Activiticket\Activiticket\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-f9cef91474bf564e8fb02beb135ac002c638f704.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluetooth"
+    android:orientation="vertical"
+    tools:context="com.example.mipc.activiticket.ListaDispositivosBlue">
+
+
+    <TextView
+        android:id="@+id/Titulo"
+        style="@style/Base.TextAppearance.AppCompat.Display3"
+        android:text="Dispositivos"
+        android:textColor="#212121"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:layout_below="@+id/Titulo"
+        android:id="@+id/lista"
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:layout_below="@+id/lista"
+        android:id="@+id/btnconectar"
+        android:background="#388E3C"
+        android:text="Buscar en vinculados"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+
+</RelativeLayout>

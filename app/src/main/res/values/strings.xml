@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Activiticket</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ventana_inicio">VentanaInicio</string>
+    <string name="title_activity_iniciar_sesion">IniciarSesion</string>
+    <string name="title_activity_registrar_sesion">RegistrarSesion</string>
+    <string name="title_activity_menu_actividad">MenuActividad</string>
+    <string name="title_activity_interfaz_sentadillas">InterfazSentadillas</string>
+    <string name="title_activity_seleccionar_actividad_registro">SeleccionarActividadRegistro
+    </string>
+    <string name="title_activity_interfaz_sentadillas_registro">InterfazSentadillasRegistro</string>
+    <string name="title_activity_interfaz_desplazamientos_registro">
+        InterfazDesplazamientosRegistro
+    </string>
+    <string name="title_activity_instrucciones_sent_r">InstruccionesSentR</string>
+    <string name="title_activity_instucciones_sent">InstuccionesSent</string>
+    <string name="title_activity_instrucciones_desp_r">InstruccionesDespR</string>
+    <string name="title_activity_instrucciones_desp">InstruccionesDesp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_game_over_sent">GameOverSent</string>
+    <string name="title_activity_game_over_sent_r">GameOverSentR</string>
+    <string name="title_activity_game_over_desp">GameOverDesp</string>
+    <string name="title_activity_game_over_desp_r">GameOverDespR</string>
+    <string name="title_activity_lista_dispositivos_blue">ListaDispositivosBlue</string>
+    <string name="title_activity_test_bluetooth_service">TestBluetoothServiceActivity</string>
+</resources>

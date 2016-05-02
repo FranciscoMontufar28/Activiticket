@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="ButtonAccentColor" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">@color/accent</item>
+        <item name="colorControlHighlight">@color/primary</item>
+    </style>
+
+    <style name="ButtonAccent" parent="Widget.AppCompat.Button">
+        <item name="colorControlHighlight">@color/primaryDark</item>
+        <item name="colorButtonNormal">@color/primary</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="NoAppBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primaryDark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+
+
+</resources>

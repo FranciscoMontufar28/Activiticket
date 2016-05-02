@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#009688</color>
+    <color name="primaryDark">#00796B</color>
+    <color name="accent">#536DFE</color>
+    <color name="nav_bg">#333333</color>
+    <color name="nav_header_bg">#555555</color>
+    <color name="nav_item_txt">#ffffff</color>
+    <color name="nav_item_icon">#ffffff</color>
+    <color name="nav_header_txt">#ffffff</color>
+    <color name="nav_subheader_txt">#aaaaaa</color>
+    <color name="nav_divider">#888888</color>
+
+</resources>
